@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The exact narrative of the conflict at Dunkeld betwixt the Earl of Angus's regiment and the rebels, collected from several officers of that regiment, who were actors in, or eye-witnesses to, all that's here narrated, in reference to these actions.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38936</idno>
+            <idno type="STC">Wing E3666</idno>
+            <idno type="STC">ESTC R201947</idno>
+            <idno type="EEBO-CITATION">99825145</idno>
+            <idno type="PROQUEST">99825145</idno>
+            <idno type="VID">29520</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38936)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29520)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2170:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The exact narrative of the conflict at Dunkeld betwixt the Earl of Angus's regiment and the rebels, collected from several officers of that regiment, who were actors in, or eye-witnesses to, all that's here narrated, in reference to these actions.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed according to order,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  History --  1689-1745 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:29520:1" rendition="simple:additions"/>
+            <head>
+               <hi>THE EXACT NARRATIVE OF THE CONFLICT AT DUNKELD,</hi> Betwixt the Earl of <hi>Angus</hi>'s Regiment and the Rebels, Collected from ſeveral Officers of that Regiment, who were Actors in, or Eye-wit<g ref="char:EOLhyphen"/>neſses to, all that's here Narrated, in refe<g ref="char:EOLhyphen"/>rence to theſe Actions.</head>
+            <p>THe ſaid Regiment being then betwixt ſeven and eight hundred men, arrived at <hi>Dunkeld Saturndays</hi> night, the 17 of <hi>Auguſt,</hi> 1689. under the Command of Lieutenant-Collonel <hi>William Cleland,</hi> a brave and ſingularly well accom<g ref="char:EOLhyphen"/>pliſhed Gentleman, within 28 years of age. Immediatly they found themſelves obliged to ly at their Arms, as being in the midſt of their Enemies. <hi>Sunday</hi> at nine in the morning, they began ſome Retrenchments within the Marqueſs of <hi>Athol</hi>'s Yard-dykes, the old breaches whereof they made up with looſe Stones, and Scaffolded the Dykes about. In the afternoon, about three hundred men appear'd upon the Hills on the North ſide of the Town, who ſent one with a white Cloth upon the top of a Hal<g ref="char:EOLhyphen"/>bert, with an open unſubſcribed Paper, in the faſhion of a Let<g ref="char:EOLhyphen"/>ter, directed to the Commanding Officer, wherein was Written, <hi>We the Gentlemen aſſembled, being informed that ye intend to burn
+<pb n="2" facs="tcp:29520:2"/>the Town, deſire to know whether ye come for Peace or War, and do certifie you, that if ye burn any one Houſe, we will deſtroy you.</hi>
+            </p>
+            <p>The Lieutenant-Collonel returned Anſwer in Writ, to this purpoſe, <hi>We are faithful Subjects to King</hi> William <hi>and Queen</hi> Ma<g ref="char:EOLhyphen"/>ry, <hi>and enemies to their enemies; and if you who ſend thoſe threats, ſhall make any hostile appearance, we will burn all that belongs to you, and otherwiſe chaſtiſe you as you deſerve.</hi> But in the mean time he cauſed ſolemnly Proclaim in the Mercat-place His <hi>Majesties</hi> In<g ref="char:EOLhyphen"/>demnity, in the hearing of him who brought the foreſaid Paper.</p>
+            <p>
+               <hi>Munday</hi> morning two Troops of Horſe, and three of Dragoons, arrived at <hi>Dunkeld,</hi> under the Command of the Land <hi>Cardroſs,</hi> who viewed the Fields all round, and took ſix Priſoners, but ſaw no Body of Men, they being retired to the Woods.</p>
+            <p>
+               <hi>Munday</hi> night they had intelligence of a great gathering by the Firey Croſs; and <hi>Tueſday</hi> morning many people appeared upon the tops of the Hills, and they were ſaid to be in the Woods and Hills about <hi>Dunkeld</hi> more than 1000 men. About eight of the Clock, the Horſe, Foot, and Dragoons made ready to March out, but a Detatch'd Party was ſent before of fourty Fuſiliers, and fifteen Halbertiers, under the Command of Captain <hi>George Monro,</hi> and thirty Horſe with Sir <hi>James Agnew,</hi> and twenty Dra<g ref="char:EOLhyphen"/>goons with the Lord <hi>Cardoſs</hi> his own Cornet; after them follow<g ref="char:EOLhyphen"/>ed Enſign <hi>Lockhart</hi> with thirty Halbertiers; the Halberts were excellent Weapons againſt the Highlanders Swords and Targets, in caſe they ſhould ruſh upon the Shot, with their accuſtomed fury: They Marched alſo at a competent diſtance before the Bo<g ref="char:EOLhyphen"/>dy; one hundred Fuſiliers more under the Command of Cap<g ref="char:EOLhyphen"/>tain <hi>John Campbel,</hi> and Captain <hi>Robert Hum<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> two brave young Gentlemen; and upon the firſt fire with the Enemy, Captain <hi>Borthwick,</hi> Captain <hi>Haries,</hi> with 200 Musquetiers and Pikes were likewiſe commanded to advance towards them; The Lieutenant-Collonel having propoſed by that method to get advantage of the Enemy in their way of looſe and furious fighting. The Body followed, having left only an Hundred and Fify Foot within the
+<pb n="3" facs="tcp:29520:2"/>Dykes. The firſt Detatched Party, after they had Marched about two Miles, found before them in a Glen, betwixt two and three hundred of the Rebels, who fired at a great diſtance, and ſhot Cornet <hi>Livingston</hi> in the Leg: The Horſe retired, and Cap<g ref="char:EOLhyphen"/>tain <hi>Monro</hi> took up their Ground, and advanced, fireing upon the Rebels to ſo good purpoſe, that they began to reel and break, but Rallied on the face of the next Hill, from whence they were a<g ref="char:EOLhyphen"/>gain beat. About that time the Lieutenant-Collonel came up, and ordered Captain <hi>Monro</hi> to ſend a Serjeant with ſix Men to a Houſe on the ſide of a Wood, where he eſpyed ſome of the Ene<g ref="char:EOLhyphen"/>mies; upon the Serjeants approach to the place, about twenty of the Rebels appeared againſt him, but he was quickly ſeconded by the Captain, who beat them over the Hill, and cleared the Ground of as many as appeared without the Woods; and upon a Command ſent to him, brought off his Men in order. Thereafter all the Horſe, Foot and Dragoons retired to the Town: And that night the Horſe and Dragoons Marched to <hi>Perth;</hi> the Lord <hi>Cardroſs</hi> who Commanded them, having received two peremp<g ref="char:EOLhyphen"/>tory Orders for that effect. The ſecond was ſent to him upon his anſwer to the firſt, by which anſwer he told they were Engaged with the Enemy, and it was neceſſary he ſhould ſtay.</p>
+            <p>In that Action three of Captain <hi>Monro</hi>'s Party were wounded, one of which died of his Wounds. <hi>William Sandilands</hi> a Cadee, Nephew to the Lord <hi>Torphichen,</hi> and a very young Youth, being of that Party, Diſcharged his Fuſie upon the Enemy eleven times. The Priſoners taken the next day, told that the Rebels loſt about thirty Men in that Action.</p>
+            <p>After the Horſe and Dragoons were Marched, ſome of the Of<g ref="char:EOLhyphen"/>ficers and Souldiers of the Earl of <hi>Angus</hi>'s Regiment propoſed, that they might alſo March, ſeing they were in an open uſeleſs place, ill provided of all things, and in the midſt of Enemies, growing ſtill to greater numbers (the Vanguard of <hi>Canons</hi> Ar<g ref="char:EOLhyphen"/>my having appeared before they came off the Field) The brave Lieutenant-Collonel, and the reſt of the Gentlemen Officers a<g ref="char:EOLhyphen"/>mongſt them, uſed all Arguments of Honour to perſwade them
+<pb n="4" facs="tcp:29520:3"/>to keep their Poſt: And for their encouragement, and to aſſure them they would never leave them, they ordered to draw out all their Horſes, to be ſhot dead. The Souldiers then told them, they needed not that Pledge for their Honour, which they ne<g ref="char:EOLhyphen"/>ver doubted: And ſeing they found their ſtay neceſſar, they would run all hazards with them.</p>
+            <p>
+               <hi>Wedneſday</hi> with the mornings light, the Rebels appeared, ſtand<g ref="char:EOLhyphen"/>ing in order, covering all the Hills about (for <hi>Canons</hi> Army joyn<g ref="char:EOLhyphen"/>ed the <hi>Athole</hi> men in the night before, and they were repute in all above 5000 Men). Their Baggage Marched alongſt the Hills towards the Weſt, and the way that leads into <hi>Athole,</hi> conſiſt<g ref="char:EOLhyphen"/>ing of a Train of many more than 1000 Horſes. Before ſeven in the morning, their Cannon advanced down to the face of a little Hill, cloſs upon the Town, and 100 Men all Armed with Back, Breaſt, and Head-piece, Marched ſtraight to enter the Town, and a Battalion of other Foot cloſs with them; two Troops of Horſe Marched about the Town, and Poſted on the South-weſt part of it, betwixt the Foord of the River and the Church; and other two Troops Poſted in the North-eaſt ſide of the <hi>Town,</hi> near the Croſs, who in the time of the Conflict ſhewed much eagerneſs to encourage and puſh on the Foot.</p>
+            <p>The Lieutenant-Collonel had before poſſeſt ſome Out-poſts with ſmall Parties, to whom he pointed out every ſtep for their Retreat. Captain <hi>William Hay</hi> and Enſign <hi>Lockhart</hi> were Poſt<g ref="char:EOLhyphen"/>ed on a little Hill, and the Enſign was ordered with 28 Men to advance to a Stone Dyke at the foot of it, they were Attack'd by the Rebels, who were in Armour, and the foreſaid other Bat<g ref="char:EOLhyphen"/>tallion: And after they had entertained them briskly with their fire, for a pretty ſpace, the Rebels forc'd the Dyke, and oblig'd them to retire, firing from one little Dyke to another, and at length to betake themſelves to the Houſe and Yard-dykes: In which Retreat Captain <hi>Hay</hi> had his Leg broken, and the whole Party came off without any more hurt.</p>
+            <p>A Lieutenant was Poſted at the Eaſt end of the Town with 18
+<pb n="5" facs="tcp:29520:3"/>Men, who had three advanced Sentinels ordered, upon the Re<g ref="char:EOLhyphen"/>bels cloſs approach, to fire and Retire, which accordingly they did; And the Lieutenant, after burning of ſome Houſes, brought in his Party.</p>
+            <p>Lieutenant <hi>Stuart</hi> was plac'd in a Baricado at the Croſs, with 20 Men, who ſeeing the other Lieutenant retire, brought his Men from that Ground, and was killed in the Retreat, there be<g ref="char:EOLhyphen"/>ing a multitude of the Rebels upon them.</p>
+            <p>Lieutenant <hi>Forreſter</hi> and Enſign <hi>Campbell</hi> were at the Weſt end of the Town, within ſome little Dykes, with 24 Men, who fired ſharply upon the Enemies Horſe, until great numbers of Foot Attack'd their Dykes, and forc'd them to the Church, where were two Lieutenants, and about one hundred Men.</p>
+            <p>All the Out-poſts being forc'd, the Rebels advanced moſt boldly upon the Yard-dykes all round, even upon thoſe Parts which ſtood within leſs than fourty paces from the River; where they crowded in Multitudes, without regard to the ſhot liberal<g ref="char:EOLhyphen"/>ly pour'd in their Faces; and ſtruck with their Swords at the Souldiers upon the Dyk, who with their Pikes and Halberts re<g ref="char:EOLhyphen"/>turned their Blows with Intereſt: Others in great numbers poſſeſt the Town-houſes: out of which they fired within the Dyks, as they did from the Hills about. And by two ſhots at once, one through the Head, and another through the Liver, the brave Lieutenant Collonel was killed; While he was Viſiting and Ex<g ref="char:EOLhyphen"/>horting the Officers and Souldiers at their ſeveral Poſts, He at<g ref="char:EOLhyphen"/>tempted to get into the Houſe, that the Souldiers might not be diſ<g ref="char:EOLhyphen"/>couraged at the ſight of his Dead body; but fell by the way. And immediatly thereafter, Major <hi>Henderſon</hi> received ſeveral Wounds, which altogether diſabled him, and whereof he died four days after. Captain <hi>Caldwal</hi> was ſhot in the Breaſt, and is not like to recover. Captain <hi>Borthwick</hi> was ſhot through the Arm, going with ſuccours to the Church: And Captain <hi>Steil</hi> got a Wound in the Shoulder, which he cauſed Pance, and return<g ref="char:EOLhyphen"/>ed again to his Poſt.</p>
+            <pb n="6" facs="tcp:29520:4"/>
+            <p> The Lieutenent Collonel being dead, and the Major diſabled about an hour after the Action began (which was before ſeven in the morning) The Command fell to Captain <hi>Monro,</hi> who left his own Poſt to Lieutenent <hi>Stuart</hi> of <hi>Livingſtoun.</hi> And finding the Souldiers galled in ſeveral places by the Enemies Shot from the Houſes; He ſent out ſmall Parties of Pike-men with burning Faggots upon the points of their Pikes, who fired the Houſes: And where they found Keys in the Doors, lock't them and burnt all within: which raiſed a hideous noiſe from theſe Wretches in the fire. There were ſixteen of them burnt in one Houſe, and the whole Houſes were burnt down, except three; wherein ſome of the Regiment were advantageouſly poſt<g ref="char:EOLhyphen"/>ed. But all the Inhabitants of the Town, who were not with the Enemy, or fled to the Fields, were received by the Souldiers in<g ref="char:EOLhyphen"/>to the Church, and ſheltered there.</p>
+            <p>Notwithſtanding all the gallant Reſiſtance which theſe furious Rebels met with, they continued their Aſſaults unceſſantly until paſt eleven of the Clock. In all which time, there was conti<g ref="char:EOLhyphen"/>nual thundering of Shot from both ſides, with Flames and Smoak, and hideous cryes filling the Air. And which was very Re<g ref="char:EOLhyphen"/>markable, though the Houſes were burnt all round, yet the Smoak of them, and all the Shot from both ſides, was carryed every where outward from the Dyks upon the Aſſailants, as if a wind had blown every way from the Center within.</p>
+            <p>At length, the Rebels wearied with ſo many fruitleſs and ex<g ref="char:EOLhyphen"/>penſive Aſſaults; and finding no abatement of the Courage or Diligence of their Adverſaries, who treated them with contin<g ref="char:EOLhyphen"/>ual Shot from all their Poſts, they gave over, and fell back, and run to the Hills in great Confuſion. Whereupon they within beat their Drums, and flouriſhed their Colours, and Hollowed after them with all Expreſſions of Contempt, and Provocations to re<g ref="char:EOLhyphen"/>turn. Their Commanders aſſay'd to bring them back to a freſh Aſſault, as ſome Priſoners related, but could not prevail; for they Anſwered them, they could fight againſt Men, but it was not fit to fight any more againſt Devils.</p>
+            <pb n="7" facs="tcp:29520:4"/>
+            <p> The Rebels being quite gone, they within began to conſider, where their greateſt Danger appeared in time of the Conflict, and ſurrendring theſe places more ſecure, they brought out the Seats of the Church, with which they made pretty good De<g ref="char:EOLhyphen"/>fences, eſpecially they fortified theſe Places of the Dyk which were made up with looſe-ſtones, a poor Defence againſt ſuch Deſperate Aſſailiants. They alſo cut down ſome Trees on a little Hill where the Enemy gall'd them under covert. Their Powder was almoſt ſpent, and their Bullets had been ſpent long before, which they ſupplyed by the diligence of a good num<g ref="char:EOLhyphen"/>ber of Men, who were imployed all the time of the Action, in cutting Lead off the Houſe, and melting the ſame in little Fur<g ref="char:EOLhyphen"/>rows in the Ground, and cutting the Pieces into Sluggs to ſerve for Bullets. They agreed that in caſe the Enemy got over their Dyks, they ſhould retire to the Houſe; and if they ſhould find themſelves overpower'd there, to burn it, and bury themſelves in the Aſhes.</p>
+            <p>In this Action, fifteen Men were killed, beſides the Officers named, and 30 wounded.</p>
+            <p>The account of the Enemies loſs is uncertain, but they are ſaid to be above three hundred ſlain, amongſt whom were ſome Perſons of Note.</p>
+            <p>That handful of unexperienced Men, was wonderfully animat<g ref="char:EOLhyphen"/>ed to a ſtedfaſt Reſiſtance againſt a Multitude of obſtinat Furies. But they gave the Glory to God, and Praiſed Him, and ſung Pſalms, after they had fitted themſelves for a new Aſſault.</p>
+            <p>Amongſt many who ſhewed extraordinary Courage, ſome young Gentlemen Cadees deſerve a ſpecial Teſtimony and Re<g ref="char:EOLhyphen"/>membrance, As <hi>William Sandilands</hi> above named, <hi>James Pringle</hi> of <hi>Hultrie, William Stirling of Mallachen, James Johnstoun</hi> a reformed Lieutenent, and others,</p>
+            <p>Diverſe Officers beſides thoſe above ſpecified, <hi>viz.</hi> Another Captain <hi>John Campbel,</hi> Captain <hi>Haries,</hi> Lieutenent <hi>Henry Stuart,</hi> Lieutenent <hi>Charles Dalyel,</hi> Lieutenent <hi>Oliphant,</hi> Lieutenant <hi>Tho<g ref="char:EOLhyphen"/>mas
+<pb n="8" facs="tcp:29520:5"/>Haddo,</hi> Enſign <hi>William Hamilton,</hi> and moſt of all the Offi<g ref="char:EOLhyphen"/>cers behaved very worthily at their ſeveral Poſts throughout the whole Action, and deſerve well to be Recorded as Men of Worth and Valour. And the whole Souldiers did every thing with ſuch undaunted Courage, and ſo little concern in all the Dangers and Deaths, which ſurrounded them and ſtared the in their Faces, that they deſerve to be recommended as Examples of Valour to this and after Ages, and to have ſome Marks of Honour fixt upon them. And it is expected His Majeſty will be graciouſly pleaſed to take Notice both of Officers and Souldiers.</p>
+            <p>Upon the Saturday immediatly after thoſe Actions, the young Laird of <hi>Bellachan</hi> came in to <hi>Dunkeld,</hi> to treat for the benefit of His Majeſties Indemnitie for all thoſe of <hi>Athole.</hi> And he Decla<g ref="char:EOLhyphen"/>red that Lord <hi>James Murray</hi> was willing to accept thereof.</p>
+            <p>But Major General M<hi rend="sup">c</hi>kay (Who by his gallant and wiſe Con<g ref="char:EOLhyphen"/>duct, prevented the conjunction of Ill-affected People, with the Rebels, and baffled all their Deſigns upon the Low-Countries) is now in the High-lands, with a brave Army. And with the Bleſſing of GOD, will ſhortly give a good Account of them all, and put an end to the Troubles of this Kingdom.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Printed according to Order, 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
